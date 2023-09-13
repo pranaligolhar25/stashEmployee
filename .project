@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>stashEmployee1</name>
+=======
+	<name>stashEmployee</name>
+>>>>>>> branch 'main' of https://github.com/pranaligolhar25/stashEmployee.git
 	<comment></comment>
 	<projects>
 	</projects>

@@ -9,5 +9,5 @@ import com.main.Model.Employee;
 public interface EmployeeRepository extends JpaRepository<Employee, Integer>
 {
 	public Employee deleteByEmpId(int id);
-
+    public Employee findById(int id);
 }

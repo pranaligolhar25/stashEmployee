@@ -11,5 +11,6 @@ public interface EmployeeServise {
 	List<Employee> getAllData();
 
 	Employee getDataById(int empId);
+	Employee deleteData(int id);
 
 }

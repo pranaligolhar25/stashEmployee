@@ -8,5 +8,6 @@ import com.main.Model.Employee;
 @Repository
 public interface EmployeeRepository extends JpaRepository<Employee, Integer>
 {
+	public Employee deleteByEmpId(int id);
 
 }
